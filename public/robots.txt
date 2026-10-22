@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Aapke sitemap ka rasta
+Sitemap: https://your-taskmaster-domain.com
